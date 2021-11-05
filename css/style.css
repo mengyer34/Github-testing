@@ -1,0 +1,14 @@
+.footer {
+    background: gray;
+    height: 30vh;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+.icon {
+    text-align: center;
+    flex-wrap: wrap;
+    
+}
