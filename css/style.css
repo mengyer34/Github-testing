@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /* <<<<<<< HEAD */
+=======
+
+>>>>>>> dc93a01528edaf0ca1c64f1236f453c4bef755dc
 .footer {
     background: gray;
     height: 30vh;
@@ -23,12 +27,18 @@ li {
 .fa-google-plus {
     color: #fff;
     margin-left: 15px;
+<<<<<<< HEAD
 /* ======= */
+=======
+}
+>>>>>>> dc93a01528edaf0ca1c64f1236f453c4bef755dc
 .bg-header {
     display: flex;
     align-items: center;
     padding: 1rem 3rem;
-    position: sticky;
+    position: fixed;
+    z-index: 10;
+    background: #fff;
     top: 0;
     box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
 }
