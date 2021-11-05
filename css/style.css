@@ -30,7 +30,7 @@
 
 /* footer  */
 .footer {
-    background: gray;
+    background: #1a237e;
     height: 30vh;
 }
 .social-icons, .icon {
@@ -41,16 +41,34 @@ h1 {
     color: #fff;
 }
 .icon {
-    flex-wrap: wrap;
     padding: 15px;
 }
-li {
-    text-align: center;
-}
 .fa-phone {
-    color: #fff;
+    color: green;
+    font-size: 30px;
+    margin-top: 10px;
 }
 .fa-google-plus {
-    color: #fff;
-    margin-left: 15px;
+    color: rgb(68, 4, 4);
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+}
+.fa-send-o {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10px;
+    color: #1a237e;
+}
+.ciclye {
+    display: flex;
+    justify-content: center;
+    border: 1px solid;
+    background: #fff;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.add {
+    margin-left: 30px;
 }
