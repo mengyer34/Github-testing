@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .footer {
     background: gray;
     height: 30vh;
@@ -23,12 +23,14 @@ li {
 .fa-google-plus {
     color: #fff;
     margin-left: 15px;
-=======
+}
 .bg-header {
     display: flex;
     align-items: center;
     padding: 1rem 3rem;
-    position: sticky;
+    position: fixed;
+    z-index: 10;
+    background: #fff;
     top: 0;
     box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
 }
@@ -39,5 +41,4 @@ li {
 }
 .nav-item:hover a{
     color: #fff;
->>>>>>> 21454799b041f8c11e9b4eb754c8c3985635aa5f
 }
