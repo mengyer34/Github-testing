@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+/* <<<<<<< HEAD */
 .footer {
     background: gray;
     height: 30vh;
@@ -23,7 +23,7 @@ li {
 .fa-google-plus {
     color: #fff;
     margin-left: 15px;
-=======
+/* ======= */
 .bg-header {
     display: flex;
     align-items: center;
@@ -39,5 +39,4 @@ li {
 }
 .nav-item:hover a{
     color: #fff;
->>>>>>> 21454799b041f8c11e9b4eb754c8c3985635aa5f
 }
